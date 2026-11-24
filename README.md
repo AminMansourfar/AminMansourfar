@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AminMansourfar
-- 👀 I’m interested in Python and SQL
-- 🌱 I’m currently learning T-SQL and Bİ
+- 👀 I’m interested in Python and SQL and AI models
+- 🌱 I’m currently learning T-SQL and BI and AI
 - 💞️ I’m looking to collaborate on Bİ projcts
 - 📫 How to reach me 00905347397904-00989363029799
 
